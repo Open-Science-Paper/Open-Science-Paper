@@ -4,6 +4,15 @@
 
 \begin{abstract}
 
+The Open-Science-Paper is a document offered to the public via GitHub. The
+repository contains a LaTeX document which is thought to be forked and used
+for scientific, collaborative paper writing over GitHub. The document combines
+the typesetting capabilities of LaTeX with the R programming language for
+statistics, using the Knitr (\url{https://github.com/yihui/knitr}) package. This
+combination allows for the production of executable documents that enhance the
+reproducibility of your research. This paper introduces the Open-Science-Paper 
+and shows how to use it.
+
 \end{abstract}
 
 

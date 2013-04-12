@@ -2,5 +2,18 @@
 %%% Sub document introduction %%%
 %%%-------------------------------------------------%%%
 
-\section{Introduction}
+\section{Introduction} 
 
+The Open-Science-Paper offers a clean and logical folder structure and lots of
+examples of typical typesetting requirements to help you typeset your paper. It
+comes with a makefile that helps you to compile, clean and archive the document.
+The document layout is close to common scientific paper formats. This layout
+can help you to prepare figures and tables for publication. But you can also
+just use the Open-Science-Paper to produce nice looking, paper like formatted
+documents. For an example see the PDF file inside of the repository or have a
+look into the impressions section below.
+
+The project is documented on detail in the Open-Science-Paper wiki. It covers
+information about the prerequisites and how to get started with the document,
+a workflow for collaborative paper writing on GitHub and much more. Some
+impressions
